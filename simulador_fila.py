@@ -4,8 +4,8 @@ fila = [{"nome": "Guilherme",
               "crianca_de_colo": True,
               "prioridade": 1
               },
-        {"nome": "Maria",
-         "idade": 23,
+        {"nome": "Nicolli",
+         "idade": 19,
          "gestante": True,
          "crianca_de_colo": False,
          "prioridade": 2
